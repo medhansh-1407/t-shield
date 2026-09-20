@@ -1,5 +1,4 @@
 # 🚀 LIVE PRODUCTION APP: [https://t-shield-k1q7ti67i-medhansh4.vercel.app/)
-*(Replace the link above with your exact Vercel URL if different!)*
 
 > 📢 **NOTE TO HACKATHON JUDGES:**  
 > Please use the **Vercel link above** for the primary live evaluation of T&Shield. It contains the optimized, high-performance release with full UI interactions, instant presets, risk scoring, and zero API quota issues.
